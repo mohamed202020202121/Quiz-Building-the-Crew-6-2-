@@ -18,7 +18,7 @@ Directions: Create an array called crew to organize the Serenity’s crew and se
  "Inara",
  "Jayne",
  "Kaylee"];
- console.log(crew)
+ console.log(crew);
 
 
-// your code goes here
+
